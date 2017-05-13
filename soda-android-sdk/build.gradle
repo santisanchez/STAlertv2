@@ -1,0 +1,44 @@
+/*
+ * SODA Android SDK - Socrata, Inc
+ *
+ * Copyright (C) 2013 Socrata, Inc
+ * All rights reserved.
+ *
+ * Developed for Socrata, Inc by:
+ * 47 Degrees, LLC
+ * http://47deg.com
+ * hello@47deg.com
+ */
+
+buildscript {
+    repositories {
+        maven { url 'http://repo1.maven.org/maven2' }
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.0'
+    }
+}
+
+apply plugin: 'com.android.library'
+
+dependencies {
+    //    compile 'com.loopj.android:android-async-http:1.4.2'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.google.android.gms:play-services:9.0.2'
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        minSdkVersion 18
+        targetSdkVersion 25
+        testApplicationId "com.socrata.android.tests"
+    }
+    productFlavors {
+    }
+}

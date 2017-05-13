@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\6ca9787b3e886e15d36c4144fc5c4a889a859ef0\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\6ca9787b3e886e15d36c4144fc5c4a889a859ef0\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\30d2d3e08117a826a556b676c669f12cb66db53f\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\30d2d3e08117a826a556b676c669f12cb66db53f\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\6ca9787b3e886e15d36c4144fc5c4a889a859ef0\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\6ca9787b3e886e15d36c4144fc5c4a889a859ef0\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Koro_\\AndroidStudioProjects\\STAlertv2\\soda-android-sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Koro_\\.android\\build-cache\\a29c049c4debd369d6fc93853b19e6baa8148011\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    }
+]
